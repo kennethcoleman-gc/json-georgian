@@ -2,21 +2,21 @@
   "pizzaTypes": [
     {
       "name": "Classic Pepperoni",
-      "price": 10.95,
+      "price": "10.95",
       "size": "large",
       "toppings": ["cheese", "pepperoni"],
       "image": "pizza-1.jpg"
     },
     {
       "name": "Canadian",
-      "price": 11.95,
+      "price": "11.95",
       "size": "large",
       "toppings": ["cheese", "pepperoni", "bacon", "mushrooms"],
       "image": "pizza-2.jpg"
     },
     {
       "name": "Hawaiian",
-      "price": 11.95,
+      "price": "11.95",
       "size": "large",
       "toppings": ["cheese", "ham", "pineapple"],
       "image": "pizza-3.jpg"
